@@ -1,19 +1,3 @@
-// ==UserScript==
-// @name         Nova Cash
-// @namespace    https://github.com/
-// @version      2.5
-// @description  AI-Learning Powered Bot (Trade at Speed of ⚡)
-// @author       Hasan Al-Hassi
-// @match        https://axiom.trade/*
-// @grant        GM_notification
-// @grant        GM_addStyle
-// @grant        GM_setValue
-// @grant        GM_getValue
-// @require      https://code.jquery.com/jquery-3.6.0.min.js
-// @require      https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js
-// @require      https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js
-// ==/UserScript==
-
 (function() {
     'use strict';
 
