@@ -1,2 +1,2 @@
-# nova-cash
+# nova
 AI-Learning Powered Bot.
