@@ -1,20 +1,3 @@
-// ==UserScript==
-// @name         Nova Pulse Pro+
-// @namespace    https://github.com/
-// @version      7.5
-// @description  Advanced AI detection with ML & Shockwave Engine
-// @author       Hasan Al-Hassi
-// @match        https://axiom.trade/*
-// @grant        GM_notification
-// @grant        GM_addStyle
-// @grant        GM_setValue
-// @grant        GM_getValue
-// @grant        GM_download
-// @require      https://cdn.jsdelivr.net/npm/regression@2.0.1/dist/regression.min.js
-// @require      https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js
-// @require      https://code.jquery.com/jquery-3.6.0.min.js
-// ==/UserScript==
-
 (function() {
     'use strict';
 
